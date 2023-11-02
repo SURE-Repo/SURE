@@ -2,7 +2,7 @@
 
 
 
-+ ***code/***
++ ***Code/***
   
   + `network/`
     + `siamese-AlexNet.py` provides the architecture of AlexNet.
